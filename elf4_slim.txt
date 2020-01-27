@@ -1,0 +1,45 @@
+File accession	Experiment accession	Biological replicate(s)	Paired with	md5sum	File download URL	Controlled by
+ENCFF053NVZ	ENCSR638QHV	2		282dec872ca549a413f127ce2224af3e	https://www.encodeproject.org/files/ENCFF053NVZ/@@download/ENCFF053NVZ.bam	
+ENCFF599VLE	ENCSR638QHV	1		12ecaf39b948a453f9bdbedc80c5443c	https://www.encodeproject.org/files/ENCFF599VLE/@@download/ENCFF599VLE.bam	
+ENCFF270PKY	ENCSR638QHV	2	ENCFF029HOW	3f99a2053ac0de0d11a063250fe0515d	https://www.encodeproject.org/files/ENCFF270PKY/@@download/ENCFF270PKY.fastq.gz	/files/ENCFF002EFD/
+ENCFF625HJX	ENCSR638QHV	1	ENCFF587AYW	34e7c845bf08f4aa68fb77d5a2098f2f	https://www.encodeproject.org/files/ENCFF625HJX/@@download/ENCFF625HJX.fastq.gz	/files/ENCFF002EFH/
+ENCFF587AYW	ENCSR638QHV	1	ENCFF625HJX	3498c0ab8db07d2da692d83df313aa67	https://www.encodeproject.org/files/ENCFF587AYW/@@download/ENCFF587AYW.fastq.gz	/files/ENCFF002EFF/
+ENCFF029HOW	ENCSR638QHV	2	ENCFF270PKY	14125f57e0673efe92f0d77e88cfbdb3	https://www.encodeproject.org/files/ENCFF029HOW/@@download/ENCFF029HOW.fastq.gz	/files/ENCFF002EFA/
+ENCFF606YTH	ENCSR638QHV	2		f3676d69056250ecb5f912f4b89afb69	https://www.encodeproject.org/files/ENCFF606YTH/@@download/ENCFF606YTH.bam	
+ENCFF105XTZ	ENCSR638QHV	1		fa44b66aca18378a29c61b2be22339c1	https://www.encodeproject.org/files/ENCFF105XTZ/@@download/ENCFF105XTZ.bam	
+ENCFF132IPA	ENCSR638QHV	1		93818e1791a9a34b81dad31df882fc17	https://www.encodeproject.org/files/ENCFF132IPA/@@download/ENCFF132IPA.bigWig	
+ENCFF575NPT	ENCSR638QHV	2		1f5e2810b20e72ca1e680cf32975c9d6	https://www.encodeproject.org/files/ENCFF575NPT/@@download/ENCFF575NPT.bigWig	
+ENCFF991LDI	ENCSR638QHV	"1, 2"		981227234370e0dbd05ffbc3a8b3a4d7	https://www.encodeproject.org/files/ENCFF991LDI/@@download/ENCFF991LDI.bigWig	
+ENCFF058QVY	ENCSR638QHV	1		b49b84613e81733e117365f09918faae	https://www.encodeproject.org/files/ENCFF058QVY/@@download/ENCFF058QVY.bigWig	
+ENCFF393XSM	ENCSR638QHV	2		ea1ae3b4ca5e57ae56400ba646d0379a	https://www.encodeproject.org/files/ENCFF393XSM/@@download/ENCFF393XSM.bigWig	
+ENCFF121DYK	ENCSR638QHV	"1, 2"		db7302bba9d2ec991de5dbd4d83ac28e	https://www.encodeproject.org/files/ENCFF121DYK/@@download/ENCFF121DYK.bigWig	
+ENCFF625PVR	ENCSR638QHV	"1, 2"		b7b93a32812f7a3a31bb504b9892b82d	https://www.encodeproject.org/files/ENCFF625PVR/@@download/ENCFF625PVR.bed.gz	
+ENCFF236DDU	ENCSR638QHV	2		3ad1ee6f9e325408564c814e56147bf6	https://www.encodeproject.org/files/ENCFF236DDU/@@download/ENCFF236DDU.bigBed	
+ENCFF630ZHT	ENCSR638QHV	1		0e019aa21610b8f4faef864c35fc3852	https://www.encodeproject.org/files/ENCFF630ZHT/@@download/ENCFF630ZHT.bigBed	
+ENCFF307JUJ	ENCSR638QHV	2		5c65bc9a01516d7a56cae72f2baf034a	https://www.encodeproject.org/files/ENCFF307JUJ/@@download/ENCFF307JUJ.bed.gz	
+ENCFF734SUP	ENCSR638QHV	1		74392f29101d939774a874931fce12b7	https://www.encodeproject.org/files/ENCFF734SUP/@@download/ENCFF734SUP.bed.gz	
+ENCFF897BXO	ENCSR638QHV	"1, 2"		958ab50d4c8dfefd790191179d51e442	https://www.encodeproject.org/files/ENCFF897BXO/@@download/ENCFF897BXO.bigBed	
+ENCFF039TGK	ENCSR638QHV	1		cf8c7ba68c7dc27b414784650ef55470	https://www.encodeproject.org/files/ENCFF039TGK/@@download/ENCFF039TGK.bam	
+ENCFF921IIJ	ENCSR638QHV	2		da0282026166a345c2388807bc53cbe7	https://www.encodeproject.org/files/ENCFF921IIJ/@@download/ENCFF921IIJ.bam	
+ENCFF958WMW	ENCSR638QHV	2		9135d003f675408f1f632ee1ed976d5a	https://www.encodeproject.org/files/ENCFF958WMW/@@download/ENCFF958WMW.bam	
+ENCFF339RWU	ENCSR638QHV	1		763be60c3e3afa5a031952d4c9e2f101	https://www.encodeproject.org/files/ENCFF339RWU/@@download/ENCFF339RWU.bam	
+ENCFF721IUB	ENCSR638QHV	1		768cc92fb09dde6f87665fb5731ddbb9	https://www.encodeproject.org/files/ENCFF721IUB/@@download/ENCFF721IUB.bigWig	
+ENCFF569HHT	ENCSR638QHV	2		8f0feb3ed83528c9c7b3d0b037070ee5	https://www.encodeproject.org/files/ENCFF569HHT/@@download/ENCFF569HHT.bigWig	
+ENCFF969RRF	ENCSR638QHV	"1, 2"		47bba7d94eaa883edf60654d1e6d6d17	https://www.encodeproject.org/files/ENCFF969RRF/@@download/ENCFF969RRF.bigWig	
+ENCFF779CBB	ENCSR638QHV	1		cd120cdffca8469e5589f4230803de8d	https://www.encodeproject.org/files/ENCFF779CBB/@@download/ENCFF779CBB.bigWig	
+ENCFF519UPE	ENCSR638QHV	2		e4f452412eb16f0235229fb501dcd610	https://www.encodeproject.org/files/ENCFF519UPE/@@download/ENCFF519UPE.bigWig	
+ENCFF383OZJ	ENCSR638QHV	"1, 2"		4dbceca67d9f694a693f11fbfb2599f5	https://www.encodeproject.org/files/ENCFF383OZJ/@@download/ENCFF383OZJ.bigWig	
+ENCFF105NCA	ENCSR638QHV	1		e5a4dca9eda8d57b923ef6aa6cf65d04	https://www.encodeproject.org/files/ENCFF105NCA/@@download/ENCFF105NCA.bed.gz	
+ENCFF870UGO	ENCSR638QHV	2		6e707f83fe85adc367acc96f8a61b714	https://www.encodeproject.org/files/ENCFF870UGO/@@download/ENCFF870UGO.bed.gz	
+ENCFF114RXP	ENCSR638QHV	"1, 2"		5325987842ebbe8b83818280d47de0bb	https://www.encodeproject.org/files/ENCFF114RXP/@@download/ENCFF114RXP.bed.gz	
+ENCFF612DLO	ENCSR638QHV	2		e6242a7c9e0f87652a5ac92bf4232846	https://www.encodeproject.org/files/ENCFF612DLO/@@download/ENCFF612DLO.bigBed	
+ENCFF021XDU	ENCSR638QHV	1		68eb9858b3be232d663e34379f589e93	https://www.encodeproject.org/files/ENCFF021XDU/@@download/ENCFF021XDU.bigBed	
+ENCFF191SVO	ENCSR638QHV	"1, 2"		c46e078ee1cef760afa5a7af0748a8d7	https://www.encodeproject.org/files/ENCFF191SVO/@@download/ENCFF191SVO.bigBed	
+ENCFF136UPB	ENCSR638QHV	"1, 2"		1212b8461e51602ead61133dc7f34de9	https://www.encodeproject.org/files/ENCFF136UPB/@@download/ENCFF136UPB.bed.gz	
+ENCFF625YZE	ENCSR638QHV	"1, 2"		b9c9bf33f2b9a8e7ae9499f32d38b46f	https://www.encodeproject.org/files/ENCFF625YZE/@@download/ENCFF625YZE.bigBed	
+ENCFF539SXG	ENCSR638QHV	"1, 2"		40f72df28c276c4dbe859b809f985ff0	https://www.encodeproject.org/files/ENCFF539SXG/@@download/ENCFF539SXG.bed.gz	
+ENCFF377OIN	ENCSR638QHV	"1, 2"		ea8f5b90edd21a176571c54aa6b9f233	https://www.encodeproject.org/files/ENCFF377OIN/@@download/ENCFF377OIN.bigBed	
+ENCFF976WHF	ENCSR638QHV	"1, 2"		af07b6f51bfe9fd037e268547e59f97d	https://www.encodeproject.org/files/ENCFF976WHF/@@download/ENCFF976WHF.bed.gz	
+ENCFF315KJE	ENCSR638QHV	"1, 2"		3d804e776aefeee6be281194e5bacdb6	https://www.encodeproject.org/files/ENCFF315KJE/@@download/ENCFF315KJE.bigBed	
+ENCFF502KHR	ENCSR638QHV	"1, 2"		c2e187f6d861df3100e2acf5d12e3e45	https://www.encodeproject.org/files/ENCFF502KHR/@@download/ENCFF502KHR.bed.gz	
+ENCFF705PUY	ENCSR638QHV	"1, 2"		d082b74162382443119b06c8aaca02eb	https://www.encodeproject.org/files/ENCFF705PUY/@@download/ENCFF705PUY.bigBed	
