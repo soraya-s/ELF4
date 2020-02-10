@@ -1,0 +1,8 @@
+https://www.encodeproject.org/files/ENCFF002EFD/@@download/ENCFF002EFD.fastq.gz
+https://www.encodeproject.org/files/ENCFF002EFH/@@download/ENCFF002EFH.fastq.gz
+https://www.encodeproject.org/files/ENCFF410PHD/@@download/ENCFF410PHD.fastq.gz
+https://www.encodeproject.org/files/ENCFF240DTE/@@download/ENCFF240DTE.fastq.gz
+https://www.encodeproject.org/files/ENCFF002EFA/@@download/ENCFF002EFA.fastq.gz
+https://www.encodeproject.org/files/ENCFF002EFF/@@download/ENCFF002EFF.fastq.gz
+https://www.encodeproject.org/files/ENCFF368UOC/@@download/ENCFF368UOC.fastq.gz
+https://www.encodeproject.org/files/ENCFF608MDV/@@download/ENCFF608MDV.fastq.gz
