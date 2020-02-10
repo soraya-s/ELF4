@@ -9,8 +9,8 @@ LEF1_INPUT,3,fastq/ENCFF410PHD.fastq.gz,fastq/ENCFF368UOC.fastq.gz,,
 LEF1_INPUT,4,fastq/ENCFF240DTE.fastq.gz,fastq/ENCFF608MDV.fastq.gz,,
 HDAC3-human,1,fastq/ENCFF942ZRE.fastq.gz,fastq/ENCFF908SKY.fastq.gz,HDAC3-human,HDAC3_input
 HDAC3-human,2,fastq/ENCFF770NDG.fastq.gz,fastq/ENCFF369MSV.fastq.gz,HDAC3-human,HDAC3_input
-HDAC3_input,1,fastq/ENCFF498JMO.fastq.gz,fastq/ENCFF502GTS.fastq.gz,,"        		"
-HDAC3_input,2,fastq/ENCFF259GQA.fastq.gz,fastq/ENCFF837MIV.fastq.gz,,"      		"
+HDAC3_input,1,fastq/ENCFF498JMO.fastq.gz,fastq/ENCFF502GTS.fastq.gz,,
+HDAC3_input,2,fastq/ENCFF259GQA.fastq.gz,fastq/ENCFF837MIV.fastq.gz,,
 WT_SIN3B_IP,1,fastq/ENCFF526SSV.fastq.gz,fastq/ENCFF953OIR.fastq.gz,SIN3B,SIN3B_input
 WT_SIN3B_IP,2,fastq/ENCFF044ZTQ.fastq.gz,fastq/ENCFF119GEQ.fastq.gz,SIN3B,SIN3B_input
 SIN3B_input,1,fastq/ENCFF498JMO.fastq.gz,fastq/ENCFF502GTS.fastq.gz,,
